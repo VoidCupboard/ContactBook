@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.11.1",
+  "appInfo": {
+    "name": "ContactBook",
+    "description": "This is a contact book app",
+    "version": "4pbyvw3v",
+    "id": "ckypgq24u44108101s63srvw0qb",
+    "url": "https://app.amplication.com/ckypgq24u44108101s63srvw0qb",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "ckypgq24u44108101s63srvw0qb",
+      "authProvider": "Http"
+    }
+  }
+}
